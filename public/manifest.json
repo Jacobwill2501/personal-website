@@ -21,14 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "homepage": "https://Jacobwill2501.github.io/personal-website",
-  "scripts": {
-    "start": "react-scripts start",
-		"build": "react-scripts build",
-		"predeploy": "yarn run build",
-		"deploy": "gh-pages -d build",
-		"test": "react-scripts test",
-		"eject": "react-scripts eject"
-  }
+  "background_color": "#ffffff"
 }
